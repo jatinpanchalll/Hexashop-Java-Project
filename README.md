@@ -41,7 +41,7 @@ Hexashop/
 - **Java Practice Lab**
 
 ## ✍️ Author
-- Jatin R Panchal
+- Jatin Panchal
   
 ## 📄 License
 This project is open-source for educational and personal use. Feel free to modify it as per your needs.
